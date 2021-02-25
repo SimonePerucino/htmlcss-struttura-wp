@@ -3,3 +3,35 @@
     margin:0;
     padding: 0;
 }
+
+/* definisce larghezza e margine di 1° e 2° contenitore e li centra */
+
+.centratura-con{
+    margin:20px auto;
+    width: 60%;
+    
+
+}
+
+/* proprietà primo wrapper */
+
+.head-wrap{
+    height: 100px;
+    background-color: blueviolet;
+}
+
+/* proprietà secondo wrapper */
+
+.main-wrap1{
+    height: 400px;
+    background-color: rgb(226, 214, 43);
+
+}
+
+.main-wrap2{
+    height: 70px;
+    background-color: rgb(43, 183, 226);
+
+
+}
+
