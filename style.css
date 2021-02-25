@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-/* definisce larghezza e margine di 1° e 2° contenitore e li centra */
+/* definisce larghezza e margine di 1° e 2° wrapper e li centra */
 
 .centratura-con{
     margin:20px auto;
@@ -23,15 +23,36 @@
 /* proprietà secondo wrapper */
 
 .main-wrap1{
-    height: 400px;
+    height: 340px;
     background-color: rgb(226, 214, 43);
 
 }
+/* proprietà terzo wrapper */
 
 .main-wrap2{
     height: 70px;
     background-color: rgb(43, 183, 226);
+    margin-bottom: 0px;
+
+
+}
+/* proprietà quarto wrapper */
+
+.main-wrap3{
+    height: 400px;
+    background-color: rgb(2, 17, 231);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
 
 
 }
 
+/* proprietà ultimo container */
+
+.footer-wrap1{
+    height: 50px;
+    background-color: rgb(139, 2, 231);
+    margin-top: 5px;
+
+}
